@@ -130,3 +130,8 @@ Haiyang Wu([@haiyangwu](https://github.com/haiyangwu/) at Github)
 
 [mediasoup-demo-android]: https://github.com/haiyangwu/mediasoup-demo-android
 [issues]: https://github.com/haiyangwu/mediasoup-client-android/issues
+
+
+
+源码编译 
+移除当前分支src 目录 创建 webrtc源码目录src 软连接 src  通过 cmake命令编译整个项目 
